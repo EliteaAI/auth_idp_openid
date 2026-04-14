@@ -1,2 +1,2 @@
 # auth_idp_openid
-Auth IDP: OpenID
+EliteA Auth IDP: OpenID
